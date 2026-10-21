@@ -1,0 +1,9 @@
+{
+  "name": "equipe-pedro",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Equipe portátil de engenharia do Pedro, com adoção e integração local sem Git.",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test testes/*.test.mjs demonstracoes/javascript/*.test.mjs", "verificar": "node equipe.mjs verificar" }
+}

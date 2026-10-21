@@ -1,0 +1,6 @@
+{
+  "preferencias": { "frontend-engineer": "claude", "padrao": "codex" },
+  "limites": { "duracaoSegundos": 180, "tentativas": 1, "concorrencia": 1 },
+  "perfis": [{ "caminho": ".", "perfil": "javascript" }],
+  "execucao": { "permitirAlternativa": false }
+}
